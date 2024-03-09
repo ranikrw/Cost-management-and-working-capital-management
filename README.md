@@ -14,6 +14,4 @@ The code in this file creates samples, runs regressions, and generates descripti
 This file contains functions used by the code in "analyses.py".
 
 <br/><br/>
-**Permanent link to the content in this repository:**
-
-
+**Permanent link to the content in this repository:** https://cost-management-2024.ranik.no
