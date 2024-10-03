@@ -2,7 +2,7 @@
 
 This repository contains all of the code necessary for executing all our analyses and generating results detailed in the following paper:
 
-Berg, T., Gustafsson, E., & Wahlstrøm, R. R. (2024). Cost management and working capital management: Ebony and ivory in perfect harmony? *Journal of Management Control*, Forthcoming.
+Berg, T., Gustafsson, E., & Wahlstrøm, R. R. (2024). Cost management and working capital management: Ebony and ivory in perfect harmony? Journal of Management Control, 35(2), 207–233. https://doi.org/10.1007/s00187-024-00368-3
 
 ## process_data.py
 The code in this file preprocesses the Compustat data and prepares it for analysis.
